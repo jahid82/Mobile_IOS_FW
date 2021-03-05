@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<TestCase>
+		<Step id="1">
+			<Optional></Optional>
+			<Action>openApp</Action>
+			<Object>App Opening</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+	<Step id="3">
+		<Optional></Optional>
+		<Action>clickAndWait</Action>
+		<Object>Continue_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_AllowAllTheTime</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_Agree_CheckBox</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>clickAndWait</Action>
+		<Object>Continue_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="6">
+		<Optional></Optional>
+		<Action>TypeUserID</Action>
+		<Object>user_id</Object>
+		<ObjectValue>jFrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="7">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>password</Object>
+		<ObjectValue>seed135</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+
+
+
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>submit_btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="9">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>No,_skip_it</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="10">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>NearMe_Btn</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<!-- 	<Step id="11">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="12">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="13">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="14">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_Location_reset</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		 -->
+		<Step id="12">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+
+		<Step id="13">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_gas_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="14">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_food_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+		<Step id="15">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_Hotel_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="16">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Filter_X_Button</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="17">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Show_list</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="18">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="19">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_Hotel_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="20">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_AutoRepair_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+		<Step id="21">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Filter_X_Button</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="22">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Show_list</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="23">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+		</Step>
+		<Step id="24">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_AutoRepair_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="25">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_Businesses_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="26">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Filter_X_Button</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="27">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Show_list</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="28">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="29">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_Businesses_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="30">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_AAABranches_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="31">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Filter_X_Button</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="32">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Show_list</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="33">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="34">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter_AAABranches_text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="35">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>nearme_filter_AAARatedOnly_text</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+				<Description></Description>
+			</Step>
+			<Step id="36">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Filter_X_Button</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="37">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Show_list</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="38">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>nearme_filter</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="39">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>nearme_filter_AAARatedOnly_text</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+				<Description></Description>
+			</Step>
+			
+			<Step id="40">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>nearme_filter_AAADiscounted_text</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+				<Description></Description>
+			</Step>
+			<Step id="41">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>Filter_X_Button</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+				<Description></Description>
+			</Step>
+			<Step id="42">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>Show_list</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+				<Description></Description>
+			</Step>
+			<Step id="43">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>nearme_filter</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+             </Step>
+             <Step id="44">
+				<Optional></Optional>
+				<Action>click</Action>
+				<Object>nearme_filter_AAADiscounted_text</Object>
+				<ObjectValue></ObjectValue>
+				<WaitTime></WaitTime>
+				<ElementType></ElementType>
+				<ElementValue></ElementValue>
+				<Description></Description>
+			</Step>
+				<Step id="45">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>nearme_filter_Traffic_text</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+				</Step>
+				<Step id="46">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>Filter_X_Button</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+				</Step>
+				<Step id="47">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>Show_list</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+				</Step>
+				<Step id="48">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>nearme_filter</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+                </Step>
+                <Step id="45">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>nearme_filter_Traffic_text</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+				</Step>
+				<Step id="45">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>nearme_filter_Satellite_text</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+				</Step>
+				<Step id="46">
+					<Optional></Optional>
+					<Action>click</Action>
+					<Object>Filter_X_Button</Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+				</Step>
+			
+            	<Step id="49">
+					<Optional></Optional>
+					<Action>closeApp</Action>
+					<Object></Object>
+					<ObjectValue></ObjectValue>
+					<WaitTime></WaitTime>
+					<ElementType></ElementType>
+					<ElementValue></ElementValue>
+					<Description></Description>
+			 </Step>
+	</TestCase>

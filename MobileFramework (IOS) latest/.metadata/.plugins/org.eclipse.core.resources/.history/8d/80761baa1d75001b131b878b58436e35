@@ -1,0 +1,8 @@
+DeviceName=Phone
+PlatformName=iOS
+UDID=00008020-000254881A01002E
+AUTOMATION_NAME=XCUITest
+PACKAGE=com.aaa.iphone.discounts
+ACTIVITY=com.aaa.android.discounts.activities.LaunchScreenActivity
+UserID=jFrank;
+PassWord=seed135;

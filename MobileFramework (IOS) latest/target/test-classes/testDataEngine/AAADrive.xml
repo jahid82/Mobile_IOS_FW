@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<TestCase>
+		
+			<Step id="3">
+		<Optional></Optional>
+		<Action>clickAndWait</Action>
+		<Object>Continue_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_AllowAllTheTime</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="4">
+		<Optional></Optional>
+		<Action>tap_Agree_CheckBox</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>clickAndWait</Action>
+		<Object>Continue_Button</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="6">
+		<Optional></Optional>
+		<Action>TypeUserID</Action>
+		<Object>user_id</Object>
+		<ObjectValue>jFrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		
+	<Step id="7">
+		<Optional></Optional>
+		<Action>sendKeys</Action>
+		<Object>password</Object>
+		<ObjectValue>seed135</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Enable_touchID</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>Enable_touchID</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<Step id="8">
+		<Optional></Optional>
+		<Action>click</Action>
+		<Object>submit_btn</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+							
+		<Step id="10">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Monitor_your_driving</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+	    <Step id="12">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>ALLOW</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> -->
+		<Step id="11">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_text</Object>
+			<ObjectValue>AAADrive ™</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="12">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_score</Object>
+			<ObjectValue>AAA Average = 74</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="13">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+		<Step id="14">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_myJourneys</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="15">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_MyJourneysText</Object>
+			<ObjectValue>My Journeys</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>	
+		
+	    <Step id="16">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="17">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="18">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_myscores</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="19">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_MyScoresText</Object>
+			<ObjectValue>My Scores</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		 <Step id="20">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		<Step id="21">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="22">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_mybadges</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="23">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_MyBadgesText</Object>
+			<ObjectValue>My Badges</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>	
+		<Step id="24">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+	    <Step id="25">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="26">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_mycommunity</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="27">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_MyCommunityText</Object>
+			<ObjectValue>My Community</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="28">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+				
+		<Step id="29">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="30">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_our_safety</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="31">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_Safety_Title</Object>
+			<ObjectValue>Our Safety</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="32">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+			
+		<Step id="33">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="34">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_preferences</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="35">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_Preferences_text</Object>
+			<ObjectValue>Preferences</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>	
+		<Step id="36">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		<Step id="37">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_menu</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="38">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>AAADrive_help/more</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="39">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>AAADrive_Help_Title</Object>
+			<ObjectValue>Help / More</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>		
+		
+		<Step id="41">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		
+		<Step id="42">
+			<Optional></Optional>
+			<Action>closeApp</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+	</TestCase>

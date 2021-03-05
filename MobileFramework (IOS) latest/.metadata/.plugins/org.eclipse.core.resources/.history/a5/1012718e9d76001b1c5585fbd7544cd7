@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestCase>
+	<!--Login -->
+	<Step id="1">
+		<Optional></Optional>
+		<Action>openApp_IOS</Action>
+		<Object>App Opening</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	 <!--<Step id="2">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>btn_continue_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="3">
+		<Optional></Optional>
+		<Action>tap_allow_while_using_app_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	 <Step id="4">
+		<Optional></Optional>
+		<Action>sendKeys_tapout_ios</Action>
+		<Object>zipCode_ios</Object>
+		<ObjectValue>48126</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="5">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>agree_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	 <Step id="6">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>btn_continue_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="7">
+		<Optional></Optional>
+		<Action>sendKeys_ios</Action>
+		<Object>user_id_ios</Object>
+		<ObjectValue>jFrank</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="8">
+		<Optional></Optional>
+		<Action>sendKeys_ios</Action>
+		<Object>password_ios</Object>
+		<ObjectValue>acg12344</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<!-- <Step id="22">
+		<Optional></Optional>
+		<Action>tap_outside_textbox_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	 <Step id="9">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>submit_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+
+	 <Step id="10">
+		<Optional></Optional>
+		<Action>getText_ios</Action>
+		<Object>login_failed_ios</Object>
+		<ObjectValue>2</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="11">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>ok_invalid_login_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="12">
+		<Optional></Optional>
+		<Action>sendKeys_ios</Action>
+		<Object>password_ios</Object>
+		<ObjectValue>seed135</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<!-- <Step id="22">
+		<Optional></Optional>
+		<Action>tap_outside_textbox_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	 <Step id="13">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Enable_touchID_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="14">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Enable_touchID_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="15">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>submit_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<!--<Step id="16">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>No_skip_it_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>-->  
+	
+	
+		
+
+	<!-- DashBoard -->
+	
+	
+	<!-- <Step id="17">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>view_card_ios_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="17">
+		<Optional></Optional>
+		<Action>swapUp_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="17">
+		<Optional></Optional>
+		<Action>tap_View_Cards_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="18">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>View_back_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	 <Step id="19">
+		<Optional></Optional>
+		<Action>Swap_left_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>	
+	<Step id="20">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>View_back_ios_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>	
+	<Step id="21">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>view_card_close_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="22">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="23">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="24">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="24">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	 <Step id="25">
+		<Optional></Optional>
+		<Action>scrollToText_ios</Action>
+		<Object>Do More With Your Membership</Object>
+		<ObjectValue>Do More With Your Membership</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="26">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+		
+	
+
+	<!-- Roadside Assistant, Near Me -->
+	<Step id="27">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>Roadside_Text_ios</Object>
+		<ObjectValue>Roadside</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="28">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>Advisor_Close-Button_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="29">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>flat_tire_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	 <Step id="30">
+		<Optional></Optional>
+		<Action>tap_SpareTire_No_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	 <Step id="31">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>cross_on_roadside_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="32">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Near_me_Text_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="33">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>NearMe_DropDown_Menu_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="34">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>nearme_filter_Hotel_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="35">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>nearme_filter_CheapestGas_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="36">
+		<Optional></Optional>
+		<Action>tap_Nearme_FilterX_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+
+
+
+
+
+	<!-- MySaving DISCOUNT -->
+	<Step id="37">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="38">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Discounts_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="39">
+		<Optional></Optional>
+		<Action>Swap_left_ios</Action>
+		<Object>Recommanded Page</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="40">
+		<Optional></Optional>
+		<Action>Swap_left_ios</Action>
+		<Object>Local</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="41">
+		<Optional></Optional>
+		<Action>Swap_left_ios</Action>
+		<Object>Most Popular</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="42">
+		<Optional></Optional>
+		<Action>Swap_left_ios</Action>
+		<Object>Recently Viewed</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="43">
+		<Optional></Optional>
+		<Action>tap_search_savings_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="44">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>search_savingsprofile_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="45">
+		<Optional></Optional>
+		<Action>tap_fivetimes_ios</Action>
+		<Object>search_favorite_partners_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="46">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>My_saving_title_ios_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="47">
+		<Optional></Optional>
+		<Action>tap_OK_DebugInfo_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="48">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="49">
+		<Optional></Optional>
+		<Action>tap_BackButton_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	
+	
+	
+<!-- Membership Page	 -->
+	
+	<Step id="50">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="51">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Membership_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="52">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Membership_Profile_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="53">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="54">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Membership_View_Benifits_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		
+   <Step id="55">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object>Membership_View_Benifits</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		
+	<Step id="56">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_chevron_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	
+	<Step id="57">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<Step id="58">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Renew_Membership_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="59">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="60">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="61">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Upgrade_Membership_level_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="62">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="63">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="64">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Add_A_Family_member_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="65">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="66">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="67">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>View_Change_billingInfo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="68">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="69">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>membership_Communication_Preference_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="70">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="71">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="72">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>membership_Refer_A_Friend_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="73">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Cross_SacnCode_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<Step id="74">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="75">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>membership_get_severe_weather_alerts_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="76">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="77">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="78">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>membership_protect_my_ID_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="79">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+
+	<Step id="80">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>membership_save_on_new_auto_battery_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="81">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="82">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="83">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>membership_save_on_your_next_car_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="84">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="85">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="86">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	
+	
+	
+		
+<!-- 	Insurance -->
+	 <Step id="87">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="88">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Insurance_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="89">
+		<Optional></Optional>
+		<Action>getText_ios</Action>
+		<Object>Insurance_ios</Object>
+		<ObjectValue>Insurance</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="90">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Manage_my_insurance_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="91">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="92">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<Step id="93">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Contact_my_agent_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="94">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="95">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="96">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<!-- AAADrive --> 
+	 <Step id="97">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="98">
+		<Optional></Optional>
+		<Action>tap_AAADrive_ios_v5</Action>
+		<Object>AAADrive_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="99">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="99">
+		<Optional></Optional>
+		<Action>wait_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="99">
+		<Optional></Optional>
+		<Action>click_ifDisplayed_ios</Action>
+		<Object>AAADrive_Allow</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	 <Step id="100">
+		<Optional></Optional>
+		<Action>click_ifDisplayed_ios</Action>
+		<Object>AAADrive_Allow</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="101">
+		<Optional></Optional>
+		<Action>tap_AAADrive_Hamburger_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="102">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>AAA_More_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 	
+	<Step id="103">
+		<Optional></Optional>
+		<Action>tap_about_AAADrive_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="104">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="105">
+		<Optional></Optional>
+		<Action>tap_AADrive_back_btn_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="106">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>AAA_back_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	
+	
+	
+
+	<!-- TRAVEL -->
+
+	<Step id="107">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="108">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Travel_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="109">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Hotel_ios</Object>
+		<ObjectValue>Book a hotel</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="110">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="111">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="112">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>CarRentals_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="113">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="114">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="115">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Flights_ios</Object>
+		<ObjectValue>Book a flight</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="116">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="117">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="118">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Activities_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="119">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="120">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+     <Step id="121">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<Step id="122">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<!-- BANKING -->
+	<Step id="123">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="124">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Banking_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="125">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>Banking_Manage_my_AAA_credit_card_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+
+	<Step id="126">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="127">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Banking_Access_bank_account_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="128">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="129">
+		<Optional></Optional>
+		<Action>sendKeys_ios</Action>
+		<Object>Banking_Username_ios</Object>
+		<ObjectValue>Name123</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="130">
+		<Optional></Optional>
+		<Action>sendKeys_ios</Action>
+		<Object>Banking_Passord_ios</Object>
+		<ObjectValue>Pass123</ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	 <Step id="131">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="131">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Banking_Access_mortgage_account_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="131">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="131">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="132">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Banking_Apply_for_a_credit_card_ios_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="133">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="134">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="135">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="136">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Banking_Apply_for_an_auto_loan_ios_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="137">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="138">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="139">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="140">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Banking_Open_an_account_ios_v5</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+		<Step id="141">
+		<Optional></Optional>
+		<Action>verifylogo_ios</Action>
+		<Object>AAA_logo_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="142">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="143">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	
+	<!-- message -->
+	 <Step id="144">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="145">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Messages_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="146">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	
+	<!-- Setting -->
+	 <Step id="147">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="148">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Settings_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="149">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Change_user_ID_Password_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="150">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Change_ID_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="151">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="152">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Change_password_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="153">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="154">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="155">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="156">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Settings_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="157">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>About_the_AAA_App_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="158">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>back_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<!-- <Step id="159">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>more_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="160">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>Settings_Btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> -->
+	<Step id="161">
+		<Optional></Optional>
+		<Action>clickAndWait_ios</Action>
+		<Object>Terms_policy_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="162">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>closeon_btn_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="163">
+		<Optional></Optional>
+		<Action>swapDown_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="164">
+		<Optional></Optional>
+		<Action>tap_enable_touchId_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="165">
+		<Optional></Optional>
+		<Action>tap_dont_enable_touchId_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="166">
+		<Optional></Optional>
+		<Action>tap_cancel_enable_touchId_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step> 
+	<Step id="167">
+		<Optional></Optional>
+		<Action>click_ios</Action>
+		<Object>logout_Setting_ios</Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+	<Step id="168">
+		<Optional></Optional>
+		<Action>closeApp_ios</Action>
+		<Object></Object>
+		<ObjectValue></ObjectValue>
+		<WaitTime></WaitTime>
+		<ElementType></ElementType>
+		<ElementValue></ElementValue>
+		<Description></Description>
+	</Step>
+</TestCase>
+

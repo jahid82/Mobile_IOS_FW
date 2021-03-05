@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<TestCase>
+		<Step id="1">
+			<Optional></Optional>
+			<Action>openApp</Action>
+			<Object>App Opening</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		 <Step id="2">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>ALLOW</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		<Step id="3">
+			<Optional></Optional>
+			<Action>sendKeys</Action>
+			<Object>Home_Zip_Code</Object>
+			<ObjectValue>68046</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="4">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>CheckBox</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="5">
+			<Optional></Optional>
+			<Action>clickAndWait</Action>
+			<Object>btn_Continue</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+<!-- 	<Step id="6">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>enable_locationservices_continue</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		<Step id="7">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>ALLOW</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>-->
+				
+		<Step id="8">
+			<Optional></Optional>
+			<Action>clickAndWait</Action>
+			<Object>Guest_Roadside_Text</Object>
+			<ObjectValue>Roadside</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="8">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Guest_Home_Text</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="7">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>Guest_Home_Text</Object>
+			<ObjectValue>Home</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="9">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>guest_Near_me_Text</Object>
+			<ObjectValue>Near Me</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+				
+		<Step id="10">
+			<Optional></Optional>
+			<Action>sendKeys</Action>
+			<Object>user_id</Object>
+			<ObjectValue>UsedId123</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="11">
+			<Optional></Optional>
+			<Action>sendKeys</Action>
+			<Object>password</Object>
+			<ObjectValue>password123</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		 <Step id="12">
+			<Optional></Optional>
+			<Action>scrollAndClick</Action>
+			<Object>Haven’t signed in yet?</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+	   	<Step id="14">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+		
+		<Step id="15">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		 </Step>
+		
+		
+	 <!--  <Step id="16">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> -->
+		
+       <Step id="17">
+			<Optional></Optional>
+			<Action>scrollAndClick</Action>
+			<Object>Not a member yet?</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+       </Step>
+   
+		<Step id="18">
+			<Optional></Optional>
+			<Action>click</Action>
+			<Object>Guest_Referred_by_another_AAA_member</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+	
+		<Step id="19">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		<Step id="20">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="20">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>Guest_Travel_txt</Object>
+			<ObjectValue>Travel</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="21">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+		<Step id="21">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="20">
+			<Optional></Optional>
+			<Action>getText</Action>
+			<Object>Guest_EnjoyPeaceofMindEveryDay_txt</Object>
+			<ObjectValue>Enjoy Peace of Mind Every Day</ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		<Step id="24">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> -->
+			
+		 <!-- <Step id="22">
+			<Optional></Optional>
+			<Action>scrollAndClick</Action>
+			<Object>Why join</Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step> 
+		<Step id="23">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+			<Step id="24">
+			<Optional></Optional>
+			<Action>swapDown</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+		
+		<Step id="25">
+			<Optional></Optional>
+			<Action>back_android</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>-->
+		<Step id="26">
+			<Optional></Optional>
+			<Action>closeApp</Action>
+			<Object></Object>
+			<ObjectValue></ObjectValue>
+			<WaitTime></WaitTime>
+			<ElementType></ElementType>
+			<ElementValue></ElementValue>
+			<Description></Description>
+		</Step>
+
+	</TestCase>

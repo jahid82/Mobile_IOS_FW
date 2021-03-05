@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestPlan>
+	<Component filename="X-Smoke_Test.xml" execute="No"/>
+	<Component filename="NearMe.xml" execute="No"/>
+	<Component filename="Discounts.xml" execute="No"/>
+	<Component filename="Insurance.xml" execute="No"/>
+	<Component filename="Travel.xml" execute="No"/>
+	<Component filename="Banking.xml" execute="No"/>
+	<Component filename="Messages.xml" execute="No"/>
+	<Component filename="Membership.xml" execute="No"/>
+	<Component filename="Settings.xml" execute="No"/>
+	<Component filename="VersionCheck.xml" execute="No"/>
+	<Component filename="Dashboard.xml" execute="No"/>
+	<Component filename="Guest_Regression.xml" execute="No"/>
+	<Component filename="AAADrive.xml" execute="No"/>
+	<Component filename="Insurance_UAT.xml" execute="No"/>
+	<Component filename="X-Smoke_Test_Dev.xml" execute="No"/>
+	
+	
+	<Component filename="X-Smoke_Test_V5.xml" execute="No"/>
+	<Component filename="Banking_V5.xml" execute="No"/>
+	<Component filename="Guest_Regression_V5.xml" execute="No"/>
+	<Component filename="Membership_V5.xml" execute="No"/>
+	<Component filename="Dashboard_V5.xml" execute="No"/>
+	
+	<Component filename="X-Smoke_Test_V5_V5.xml" execute="No"/>
+	<Component filename="Banking_V5_V5.xml" execute="No"/>
+	<Component filename="Settings_V5_V5.xml" execute="No"/>
+	<Component filename="Membership_V5_V5.xml" execute="No"/>
+	<Component filename="Messages_V5_V5.xml" execute="No"/>
+	<Component filename="AAADrive_V5_V5.xml" execute="No"/>
+	<Component filename="Dashboard_V5_V5.xml" execute="No"/>
+	<Component filename="VersionCheck_V5_V5.xml" execute="Yes"/>
+	<Component filename="Discounts_V5_V5.xml" execute="No"/>
+	<Component filename="Guest_Regression_V5_V5.xml" execute="No"/>
+	<Component filename="MyCards_V5.xml" execute="No"/>
+	<Component filename="X-Smoke_Test_V5_V5_WithSwap.xml" execute="No"/>
+	<Component filename="Travel_V5_V5.xml" execute="No"/>
+	<Component filename="Membership_V5_Updated.xml" execute="No"/>
+	<Component filename="DenyingLocation_V5.xml" execute="No"/>
+</TestPlan>
+

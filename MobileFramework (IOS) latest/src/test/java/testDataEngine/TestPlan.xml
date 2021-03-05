@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TestPlan>
+
+	<Component filename="Invalid_Login.xml" execute="No"/>
+	<Component filename="VersionCheck.xml" execute="No"/>
+	<Component filename="DashBoard.xml" execute="No"/>
+	<Component filename="AAADrive.xml" execute="No" />
+	<Component filename="Discounts.xml" execute="No"/>
+    <Component filename="Membership.xml" execute="No"/>
+	<Component filename="Insurance.xml" execute="No"/>
+	<Component filename="Travel.xml" execute="No"/>
+	<Component filename="Banking.xml" execute="No"/>
+	<Component filename="Messages.xml" execute="No"/>
+	<Component filename="MyCards.xml" execute="No"/>
+	<Component filename="NearMe.xml" execute="No"/>
+	<Component filename="Settings.xml" execute="No"/>
+	<Component filename="ChangeZip.xml" execute="No"/>
+	<Component filename="GuestDashBoard.xml" execute="No"/>
+	<Component filename="GuestMore_P1.xml" execute="No"/>
+	<Component filename="GuestMore_P2.xml" execute="No"/>
+	<Component filename="TripTik.xml" execute="No"/>
+	<Component filename="X-Smoke_Test.xml" execute="No"/>
+	<Component filename="X-Smoke_Guest.xml" execute="No"/>
+	<Component filename="X-LG_Smoke_Test.xml" execute="No"/>
+	<Component filename="X-LG_Smoke_Guest.xml" execute="No"/>
+	<Component filename="X-NOKIA_Smoke_Guest.xml" execute="No"/>
+	<Component filename="X-NOKIA_Smoke_Test.xml" execute="No"/>
+	<Component filename="NearMe_NOKIA.xml" execute="No"/>
+	<Component filename="Discounts_NOKIA.xml" execute="No"/>
+	<Component filename="X-Smoke_Test_IOS.xml" execute="Yes"/>
+	
+</TestPlan>
+
